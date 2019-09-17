@@ -1,0 +1,11 @@
+HTML5 
+* cross - platform development : for developing applications and software for mor than one platform [ web, mobile, desktop]
+* special tags for video and audio
+* doctype to specify the html version
+* header, footer,section, etc
+* GeoLocation API
+* <header></header>
+* <footer></footer>
+* <nav></nav> to navigate to different areas
+* <article></article> comment box, blogs etc
+

@@ -1,0 +1,3 @@
+Missed out topics  :
+1. HTML Canvas need JS.
+
