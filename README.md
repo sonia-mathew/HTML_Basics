@@ -1,2 +1,2 @@
 # HTML_BASICS
-This repositiry includes projects that can be used as for learning HTML/HTML5
+This repositiry includes projects that can be used by interested people for learning HTML/HTML5
